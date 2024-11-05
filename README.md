@@ -44,7 +44,7 @@ Welcome to the **Pet and Recipes App**! This application allows users to explore
 
 You can access the live version of the application at:
 
-[Your Live URL Here](http://your-live-url.com)
+[Live URL Here](https://week-8-nu.vercel.app/)
 
 ## Getting Started
 
